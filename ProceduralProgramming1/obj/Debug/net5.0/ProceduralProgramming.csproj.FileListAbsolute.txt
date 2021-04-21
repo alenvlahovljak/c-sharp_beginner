@@ -1,0 +1,15 @@
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming/bin/Debug/net5.0/ProceduralProgramming.deps.json
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming/bin/Debug/net5.0/ProceduralProgramming.runtimeconfig.json
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming/bin/Debug/net5.0/ProceduralProgramming.runtimeconfig.dev.json
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming/bin/Debug/net5.0/ProceduralProgramming.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming/bin/Debug/net5.0/ref/ProceduralProgramming.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming/bin/Debug/net5.0/ProceduralProgramming.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming/obj/Debug/net5.0/ProceduralProgramming.csprojAssemblyReference.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming/obj/Debug/net5.0/ProceduralProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming/obj/Debug/net5.0/ProceduralProgramming.AssemblyInfoInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming/obj/Debug/net5.0/ProceduralProgramming.AssemblyInfo.cs
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming/obj/Debug/net5.0/ProceduralProgramming.csproj.CoreCompileInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming/obj/Debug/net5.0/ProceduralProgramming.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming/obj/Debug/net5.0/ref/ProceduralProgramming.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming/obj/Debug/net5.0/ProceduralProgramming.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming/obj/Debug/net5.0/ProceduralProgramming.genruntimeconfig.cache

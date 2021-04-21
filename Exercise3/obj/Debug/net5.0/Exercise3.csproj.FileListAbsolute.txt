@@ -1,0 +1,15 @@
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Exercise3/bin/Debug/net5.0/Exercise3.deps.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Exercise3/bin/Debug/net5.0/Exercise3.runtimeconfig.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Exercise3/bin/Debug/net5.0/Exercise3.runtimeconfig.dev.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Exercise3/bin/Debug/net5.0/Exercise3.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Exercise3/bin/Debug/net5.0/ref/Exercise3.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Exercise3/bin/Debug/net5.0/Exercise3.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Exercise3/obj/Debug/net5.0/Exercise3.csprojAssemblyReference.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Exercise3/obj/Debug/net5.0/Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Exercise3/obj/Debug/net5.0/Exercise3.AssemblyInfoInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Exercise3/obj/Debug/net5.0/Exercise3.AssemblyInfo.cs
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Exercise3/obj/Debug/net5.0/Exercise3.csproj.CoreCompileInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Exercise3/obj/Debug/net5.0/Exercise3.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Exercise3/obj/Debug/net5.0/ref/Exercise3.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Exercise3/obj/Debug/net5.0/Exercise3.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Exercise3/obj/Debug/net5.0/Exercise3.genruntimeconfig.cache

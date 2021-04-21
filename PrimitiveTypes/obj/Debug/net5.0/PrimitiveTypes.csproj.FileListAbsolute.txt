@@ -1,0 +1,15 @@
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/PrimitiveTypes/bin/Debug/net5.0/PrimitiveTypes.deps.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/PrimitiveTypes/bin/Debug/net5.0/PrimitiveTypes.runtimeconfig.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/PrimitiveTypes/bin/Debug/net5.0/PrimitiveTypes.runtimeconfig.dev.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/PrimitiveTypes/bin/Debug/net5.0/PrimitiveTypes.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/PrimitiveTypes/bin/Debug/net5.0/ref/PrimitiveTypes.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/PrimitiveTypes/bin/Debug/net5.0/PrimitiveTypes.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/PrimitiveTypes/obj/Debug/net5.0/PrimitiveTypes.csprojAssemblyReference.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/PrimitiveTypes/obj/Debug/net5.0/PrimitiveTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/PrimitiveTypes/obj/Debug/net5.0/PrimitiveTypes.AssemblyInfoInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/PrimitiveTypes/obj/Debug/net5.0/PrimitiveTypes.AssemblyInfo.cs
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/PrimitiveTypes/obj/Debug/net5.0/PrimitiveTypes.csproj.CoreCompileInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/PrimitiveTypes/obj/Debug/net5.0/PrimitiveTypes.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/PrimitiveTypes/obj/Debug/net5.0/ref/PrimitiveTypes.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/PrimitiveTypes/obj/Debug/net5.0/PrimitiveTypes.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/PrimitiveTypes/obj/Debug/net5.0/PrimitiveTypes.genruntimeconfig.cache

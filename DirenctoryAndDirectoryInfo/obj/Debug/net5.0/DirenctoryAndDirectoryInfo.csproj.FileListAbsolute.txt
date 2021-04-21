@@ -1,0 +1,15 @@
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/DirenctoryAndDirectoryInfo/bin/Debug/net5.0/DirenctoryAndDirectoryInfo.deps.json
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/DirenctoryAndDirectoryInfo/bin/Debug/net5.0/DirenctoryAndDirectoryInfo.runtimeconfig.json
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/DirenctoryAndDirectoryInfo/bin/Debug/net5.0/DirenctoryAndDirectoryInfo.runtimeconfig.dev.json
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/DirenctoryAndDirectoryInfo/bin/Debug/net5.0/DirenctoryAndDirectoryInfo.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/DirenctoryAndDirectoryInfo/bin/Debug/net5.0/ref/DirenctoryAndDirectoryInfo.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/DirenctoryAndDirectoryInfo/bin/Debug/net5.0/DirenctoryAndDirectoryInfo.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/DirenctoryAndDirectoryInfo/obj/Debug/net5.0/DirenctoryAndDirectoryInfo.csprojAssemblyReference.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/DirenctoryAndDirectoryInfo/obj/Debug/net5.0/DirenctoryAndDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/DirenctoryAndDirectoryInfo/obj/Debug/net5.0/DirenctoryAndDirectoryInfo.AssemblyInfoInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/DirenctoryAndDirectoryInfo/obj/Debug/net5.0/DirenctoryAndDirectoryInfo.AssemblyInfo.cs
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/DirenctoryAndDirectoryInfo/obj/Debug/net5.0/DirenctoryAndDirectoryInfo.csproj.CoreCompileInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/DirenctoryAndDirectoryInfo/obj/Debug/net5.0/DirenctoryAndDirectoryInfo.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/DirenctoryAndDirectoryInfo/obj/Debug/net5.0/ref/DirenctoryAndDirectoryInfo.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/DirenctoryAndDirectoryInfo/obj/Debug/net5.0/DirenctoryAndDirectoryInfo.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/DirenctoryAndDirectoryInfo/obj/Debug/net5.0/DirenctoryAndDirectoryInfo.genruntimeconfig.cache

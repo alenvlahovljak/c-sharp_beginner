@@ -1,0 +1,15 @@
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ReferneceTypeExample/bin/Debug/net5.0/ReferneceTypeExample.deps.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ReferneceTypeExample/bin/Debug/net5.0/ReferneceTypeExample.runtimeconfig.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ReferneceTypeExample/bin/Debug/net5.0/ReferneceTypeExample.runtimeconfig.dev.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ReferneceTypeExample/bin/Debug/net5.0/ReferneceTypeExample.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ReferneceTypeExample/bin/Debug/net5.0/ref/ReferneceTypeExample.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ReferneceTypeExample/bin/Debug/net5.0/ReferneceTypeExample.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ReferneceTypeExample/obj/Debug/net5.0/ReferneceTypeExample.csprojAssemblyReference.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ReferneceTypeExample/obj/Debug/net5.0/ReferneceTypeExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ReferneceTypeExample/obj/Debug/net5.0/ReferneceTypeExample.AssemblyInfoInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ReferneceTypeExample/obj/Debug/net5.0/ReferneceTypeExample.AssemblyInfo.cs
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ReferneceTypeExample/obj/Debug/net5.0/ReferneceTypeExample.csproj.CoreCompileInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ReferneceTypeExample/obj/Debug/net5.0/ReferneceTypeExample.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ReferneceTypeExample/obj/Debug/net5.0/ref/ReferneceTypeExample.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ReferneceTypeExample/obj/Debug/net5.0/ReferneceTypeExample.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ReferneceTypeExample/obj/Debug/net5.0/ReferneceTypeExample.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming1/bin/Debug/net5.0/ProceduralProgramming1.deps.json
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming1/bin/Debug/net5.0/ProceduralProgramming1.runtimeconfig.json
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming1/bin/Debug/net5.0/ProceduralProgramming1.runtimeconfig.dev.json
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming1/bin/Debug/net5.0/ProceduralProgramming1.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming1/bin/Debug/net5.0/ref/ProceduralProgramming1.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming1/bin/Debug/net5.0/ProceduralProgramming1.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming1/obj/Debug/net5.0/ProceduralProgramming1.csprojAssemblyReference.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming1/obj/Debug/net5.0/ProceduralProgramming1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming1/obj/Debug/net5.0/ProceduralProgramming1.AssemblyInfoInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming1/obj/Debug/net5.0/ProceduralProgramming1.AssemblyInfo.cs
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming1/obj/Debug/net5.0/ProceduralProgramming1.csproj.CoreCompileInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming1/obj/Debug/net5.0/ProceduralProgramming1.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming1/obj/Debug/net5.0/ref/ProceduralProgramming1.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming1/obj/Debug/net5.0/ProceduralProgramming1.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/ProceduralProgramming1/obj/Debug/net5.0/ProceduralProgramming1.genruntimeconfig.cache

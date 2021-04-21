@@ -1,0 +1,15 @@
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Operators/bin/Debug/net5.0/Operators.deps.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Operators/bin/Debug/net5.0/Operators.runtimeconfig.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Operators/bin/Debug/net5.0/Operators.runtimeconfig.dev.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Operators/bin/Debug/net5.0/Operators.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Operators/bin/Debug/net5.0/ref/Operators.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Operators/bin/Debug/net5.0/Operators.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Operators/obj/Debug/net5.0/Operators.csprojAssemblyReference.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Operators/obj/Debug/net5.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Operators/obj/Debug/net5.0/Operators.AssemblyInfoInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Operators/obj/Debug/net5.0/Operators.AssemblyInfo.cs
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Operators/obj/Debug/net5.0/Operators.csproj.CoreCompileInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Operators/obj/Debug/net5.0/Operators.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Operators/obj/Debug/net5.0/ref/Operators.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Operators/obj/Debug/net5.0/Operators.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Operators/obj/Debug/net5.0/Operators.genruntimeconfig.cache

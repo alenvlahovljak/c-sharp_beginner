@@ -1,0 +1,15 @@
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/StringsObjects/bin/Debug/net5.0/StringsObjects.deps.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/StringsObjects/bin/Debug/net5.0/StringsObjects.runtimeconfig.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/StringsObjects/bin/Debug/net5.0/StringsObjects.runtimeconfig.dev.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/StringsObjects/bin/Debug/net5.0/StringsObjects.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/StringsObjects/bin/Debug/net5.0/ref/StringsObjects.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/StringsObjects/bin/Debug/net5.0/StringsObjects.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/StringsObjects/obj/Debug/net5.0/StringsObjects.csprojAssemblyReference.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/StringsObjects/obj/Debug/net5.0/StringsObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/StringsObjects/obj/Debug/net5.0/StringsObjects.AssemblyInfoInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/StringsObjects/obj/Debug/net5.0/StringsObjects.AssemblyInfo.cs
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/StringsObjects/obj/Debug/net5.0/StringsObjects.csproj.CoreCompileInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/StringsObjects/obj/Debug/net5.0/StringsObjects.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/StringsObjects/obj/Debug/net5.0/ref/StringsObjects.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/StringsObjects/obj/Debug/net5.0/StringsObjects.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/StringsObjects/obj/Debug/net5.0/StringsObjects.genruntimeconfig.cache

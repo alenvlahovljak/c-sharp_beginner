@@ -1,0 +1,15 @@
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/EnumsApp/bin/Debug/net5.0/EnumsApp.deps.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/EnumsApp/bin/Debug/net5.0/EnumsApp.runtimeconfig.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/EnumsApp/bin/Debug/net5.0/EnumsApp.runtimeconfig.dev.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/EnumsApp/bin/Debug/net5.0/EnumsApp.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/EnumsApp/bin/Debug/net5.0/ref/EnumsApp.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/EnumsApp/bin/Debug/net5.0/EnumsApp.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/EnumsApp/obj/Debug/net5.0/EnumsApp.csprojAssemblyReference.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/EnumsApp/obj/Debug/net5.0/EnumsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/EnumsApp/obj/Debug/net5.0/EnumsApp.AssemblyInfoInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/EnumsApp/obj/Debug/net5.0/EnumsApp.AssemblyInfo.cs
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/EnumsApp/obj/Debug/net5.0/EnumsApp.csproj.CoreCompileInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/EnumsApp/obj/Debug/net5.0/EnumsApp.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/EnumsApp/obj/Debug/net5.0/ref/EnumsApp.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/EnumsApp/obj/Debug/net5.0/EnumsApp.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/EnumsApp/obj/Debug/net5.0/EnumsApp.genruntimeconfig.cache

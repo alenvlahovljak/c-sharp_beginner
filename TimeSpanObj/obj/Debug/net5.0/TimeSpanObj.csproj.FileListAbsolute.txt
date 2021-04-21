@@ -1,0 +1,15 @@
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/TimeSpanObj/bin/Debug/net5.0/TimeSpanObj.deps.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/TimeSpanObj/bin/Debug/net5.0/TimeSpanObj.runtimeconfig.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/TimeSpanObj/bin/Debug/net5.0/TimeSpanObj.runtimeconfig.dev.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/TimeSpanObj/bin/Debug/net5.0/TimeSpanObj.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/TimeSpanObj/bin/Debug/net5.0/ref/TimeSpanObj.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/TimeSpanObj/bin/Debug/net5.0/TimeSpanObj.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/TimeSpanObj/obj/Debug/net5.0/TimeSpanObj.csprojAssemblyReference.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/TimeSpanObj/obj/Debug/net5.0/TimeSpanObj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/TimeSpanObj/obj/Debug/net5.0/TimeSpanObj.AssemblyInfoInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/TimeSpanObj/obj/Debug/net5.0/TimeSpanObj.AssemblyInfo.cs
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/TimeSpanObj/obj/Debug/net5.0/TimeSpanObj.csproj.CoreCompileInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/TimeSpanObj/obj/Debug/net5.0/TimeSpanObj.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/TimeSpanObj/obj/Debug/net5.0/ref/TimeSpanObj.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/TimeSpanObj/obj/Debug/net5.0/TimeSpanObj.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/TimeSpanObj/obj/Debug/net5.0/TimeSpanObj.genruntimeconfig.cache

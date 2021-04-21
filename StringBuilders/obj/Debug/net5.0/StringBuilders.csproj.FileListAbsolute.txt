@@ -1,0 +1,15 @@
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/StringBuilders/bin/Debug/net5.0/StringBuilders.deps.json
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/StringBuilders/bin/Debug/net5.0/StringBuilders.runtimeconfig.json
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/StringBuilders/bin/Debug/net5.0/StringBuilders.runtimeconfig.dev.json
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/StringBuilders/bin/Debug/net5.0/StringBuilders.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/StringBuilders/bin/Debug/net5.0/ref/StringBuilders.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/StringBuilders/bin/Debug/net5.0/StringBuilders.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/StringBuilders/obj/Debug/net5.0/StringBuilders.csprojAssemblyReference.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/StringBuilders/obj/Debug/net5.0/StringBuilders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/StringBuilders/obj/Debug/net5.0/StringBuilders.AssemblyInfoInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/StringBuilders/obj/Debug/net5.0/StringBuilders.AssemblyInfo.cs
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/StringBuilders/obj/Debug/net5.0/StringBuilders.csproj.CoreCompileInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/StringBuilders/obj/Debug/net5.0/StringBuilders.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/StringBuilders/obj/Debug/net5.0/ref/StringBuilders.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/StringBuilders/obj/Debug/net5.0/StringBuilders.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/c#_beginner/StringBuilders/obj/Debug/net5.0/StringBuilders.genruntimeconfig.cache

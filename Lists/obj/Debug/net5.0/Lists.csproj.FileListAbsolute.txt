@@ -1,0 +1,15 @@
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Lists/bin/Debug/net5.0/Lists.deps.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Lists/bin/Debug/net5.0/Lists.runtimeconfig.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Lists/bin/Debug/net5.0/Lists.runtimeconfig.dev.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Lists/bin/Debug/net5.0/Lists.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Lists/bin/Debug/net5.0/ref/Lists.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Lists/bin/Debug/net5.0/Lists.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Lists/obj/Debug/net5.0/Lists.csprojAssemblyReference.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Lists/obj/Debug/net5.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Lists/obj/Debug/net5.0/Lists.AssemblyInfoInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Lists/obj/Debug/net5.0/Lists.AssemblyInfo.cs
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Lists/obj/Debug/net5.0/Lists.csproj.CoreCompileInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Lists/obj/Debug/net5.0/Lists.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Lists/obj/Debug/net5.0/ref/Lists.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Lists/obj/Debug/net5.0/Lists.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/Lists/obj/Debug/net5.0/Lists.genruntimeconfig.cache

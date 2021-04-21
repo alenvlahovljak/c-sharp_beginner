@@ -1,0 +1,15 @@
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/DateAndTime/bin/Debug/net5.0/DateAndTime.deps.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/DateAndTime/bin/Debug/net5.0/DateAndTime.runtimeconfig.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/DateAndTime/bin/Debug/net5.0/DateAndTime.runtimeconfig.dev.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/DateAndTime/bin/Debug/net5.0/DateAndTime.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/DateAndTime/bin/Debug/net5.0/ref/DateAndTime.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/DateAndTime/bin/Debug/net5.0/DateAndTime.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/DateAndTime/obj/Debug/net5.0/DateAndTime.csprojAssemblyReference.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/DateAndTime/obj/Debug/net5.0/DateAndTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/DateAndTime/obj/Debug/net5.0/DateAndTime.AssemblyInfoInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/DateAndTime/obj/Debug/net5.0/DateAndTime.AssemblyInfo.cs
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/DateAndTime/obj/Debug/net5.0/DateAndTime.csproj.CoreCompileInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/DateAndTime/obj/Debug/net5.0/DateAndTime.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/DateAndTime/obj/Debug/net5.0/ref/DateAndTime.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/DateAndTime/obj/Debug/net5.0/DateAndTime.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/DateAndTime/obj/Debug/net5.0/DateAndTime.genruntimeconfig.cache

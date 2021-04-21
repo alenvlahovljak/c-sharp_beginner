@@ -1,0 +1,15 @@
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ValueTypes_ReferenceTypes/bin/Debug/net5.0/ValueTypes_ReferenceTypes.deps.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ValueTypes_ReferenceTypes/bin/Debug/net5.0/ValueTypes_ReferenceTypes.runtimeconfig.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ValueTypes_ReferenceTypes/bin/Debug/net5.0/ValueTypes_ReferenceTypes.runtimeconfig.dev.json
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ValueTypes_ReferenceTypes/bin/Debug/net5.0/ValueTypes_ReferenceTypes.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ValueTypes_ReferenceTypes/bin/Debug/net5.0/ref/ValueTypes_ReferenceTypes.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ValueTypes_ReferenceTypes/bin/Debug/net5.0/ValueTypes_ReferenceTypes.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ValueTypes_ReferenceTypes/obj/Debug/net5.0/ValueTypes_ReferenceTypes.csprojAssemblyReference.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ValueTypes_ReferenceTypes/obj/Debug/net5.0/ValueTypes_ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ValueTypes_ReferenceTypes/obj/Debug/net5.0/ValueTypes_ReferenceTypes.AssemblyInfoInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ValueTypes_ReferenceTypes/obj/Debug/net5.0/ValueTypes_ReferenceTypes.AssemblyInfo.cs
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ValueTypes_ReferenceTypes/obj/Debug/net5.0/ValueTypes_ReferenceTypes.csproj.CoreCompileInputs.cache
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ValueTypes_ReferenceTypes/obj/Debug/net5.0/ValueTypes_ReferenceTypes.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ValueTypes_ReferenceTypes/obj/Debug/net5.0/ref/ValueTypes_ReferenceTypes.dll
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ValueTypes_ReferenceTypes/obj/Debug/net5.0/ValueTypes_ReferenceTypes.pdb
+/Users/alenvlahovljak/Desktop/c#_exercises/ConsoleApp1/ValueTypes_ReferenceTypes/obj/Debug/net5.0/ValueTypes_ReferenceTypes.genruntimeconfig.cache
